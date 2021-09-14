@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/phramamanagement.github.io/static/css/main.5f62c5ee.chunk.css",
-    "main.js": "/phramamanagement.github.io/static/js/main.f9cb6055.chunk.js",
-    "main.js.map": "/phramamanagement.github.io/static/js/main.f9cb6055.chunk.js.map",
-    "runtime-main.js": "/phramamanagement.github.io/static/js/runtime-main.56995b3c.js",
-    "runtime-main.js.map": "/phramamanagement.github.io/static/js/runtime-main.56995b3c.js.map",
-    "static/js/2.e649663b.chunk.js": "/phramamanagement.github.io/static/js/2.e649663b.chunk.js",
-    "static/js/2.e649663b.chunk.js.map": "/phramamanagement.github.io/static/js/2.e649663b.chunk.js.map",
-    "static/js/3.c31bfa3f.chunk.js": "/phramamanagement.github.io/static/js/3.c31bfa3f.chunk.js",
-    "static/js/3.c31bfa3f.chunk.js.map": "/phramamanagement.github.io/static/js/3.c31bfa3f.chunk.js.map",
+    "main.css": "/phramamanagement.github.io/static/css/main.2d2efbe6.chunk.css",
+    "main.js": "/phramamanagement.github.io/static/js/main.9dc6d666.chunk.js",
+    "main.js.map": "/phramamanagement.github.io/static/js/main.9dc6d666.chunk.js.map",
+    "runtime-main.js": "/phramamanagement.github.io/static/js/runtime-main.fd3655ba.js",
+    "runtime-main.js.map": "/phramamanagement.github.io/static/js/runtime-main.fd3655ba.js.map",
+    "static/js/2.7a0aaa63.chunk.js": "/phramamanagement.github.io/static/js/2.7a0aaa63.chunk.js",
+    "static/js/2.7a0aaa63.chunk.js.map": "/phramamanagement.github.io/static/js/2.7a0aaa63.chunk.js.map",
+    "static/js/3.d5df2c14.chunk.js": "/phramamanagement.github.io/static/js/3.d5df2c14.chunk.js",
+    "static/js/3.d5df2c14.chunk.js.map": "/phramamanagement.github.io/static/js/3.d5df2c14.chunk.js.map",
     "index.html": "/phramamanagement.github.io/index.html",
-    "static/css/main.5f62c5ee.chunk.css.map": "/phramamanagement.github.io/static/css/main.5f62c5ee.chunk.css.map",
-    "static/js/2.e649663b.chunk.js.LICENSE.txt": "/phramamanagement.github.io/static/js/2.e649663b.chunk.js.LICENSE.txt"
+    "static/css/main.2d2efbe6.chunk.css.map": "/phramamanagement.github.io/static/css/main.2d2efbe6.chunk.css.map",
+    "static/js/2.7a0aaa63.chunk.js.LICENSE.txt": "/phramamanagement.github.io/static/js/2.7a0aaa63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.56995b3c.js",
-    "static/js/2.e649663b.chunk.js",
-    "static/css/main.5f62c5ee.chunk.css",
-    "static/js/main.f9cb6055.chunk.js"
+    "static/js/runtime-main.fd3655ba.js",
+    "static/js/2.7a0aaa63.chunk.js",
+    "static/css/main.2d2efbe6.chunk.css",
+    "static/js/main.9dc6d666.chunk.js"
   ]
 }
