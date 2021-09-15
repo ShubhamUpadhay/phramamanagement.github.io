@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/phramamanagement.github.io/static/css/main.9bca6ccb.chunk.css",
-    "main.js": "/phramamanagement.github.io/static/js/main.6470f281.chunk.js",
-    "main.js.map": "/phramamanagement.github.io/static/js/main.6470f281.chunk.js.map",
+    "main.js": "/phramamanagement.github.io/static/js/main.c92717c7.chunk.js",
+    "main.js.map": "/phramamanagement.github.io/static/js/main.c92717c7.chunk.js.map",
     "runtime-main.js": "/phramamanagement.github.io/static/js/runtime-main.fd3655ba.js",
     "runtime-main.js.map": "/phramamanagement.github.io/static/js/runtime-main.fd3655ba.js.map",
     "static/js/2.25227017.chunk.js": "/phramamanagement.github.io/static/js/2.25227017.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fd3655ba.js",
     "static/js/2.25227017.chunk.js",
     "static/css/main.9bca6ccb.chunk.css",
-    "static/js/main.6470f281.chunk.js"
+    "static/js/main.c92717c7.chunk.js"
   ]
 }
